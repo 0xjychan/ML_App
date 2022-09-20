@@ -1,2 +1,2 @@
 # ML_App
-A web app of machine learning models for classification tasks from sklearn dataset
+A web app built with Streamlit on machine learning models for classification tasks from sklearn dataset.
